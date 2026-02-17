@@ -1,0 +1,216 @@
+body {
+  background: #dba4d1;
+  color: #333;
+  line-height: 1;
+  
+}
+
+
+header {
+  background:#8e398e;
+  color:#340d41ae;
+  text-align: center;
+  padding:  5px;
+  
+}
+
+.heading {
+  font-size: 150px;
+  letter-spacing: 4px;
+}
+
+header p {
+  font-size: 50px;
+  color:#946981;
+  padding: 5px;
+}
+
+nav {
+  background: #4b024b;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: rgb(248, 217, 235);
+  margin:  15px;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+div>div {
+  background: rgb(202, 184, 202);
+  width: 250px;
+  margin: 30px;
+  padding: 60px;
+  border-radius: 30px;
+  text-align: center;
+ 
+}
+
+
+
+
+div > div h3 {
+  color: #391a42;
+  margin-bottom: 10px;
+  font-size: 50px;
+}
+
+img {
+  width: 250px;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+
+.price {
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(196, 12, 116);
+}
+
+
+button {
+background: #8c187a;
+  color: rgb(213, 200, 210);
+  padding: 8px 14px;
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+  font-size: 16px;
+  
+
+}
+
+
+table {
+  width: 50%;
+  margin: 50px;
+    border-collapse: collapse;
+  background: rgb(161, 30, 135);
+  font-size:30px;
+}
+
+th, td {
+  padding: 15px;
+  text-align: center;
+  border: 0.1solid #eddede;
+}
+
+th {
+  background: rgb(133, 30, 112);
+  color: rgb(206, 175, 203);
+  font-size:30px;
+}
+
+article {
+  background: #84337c;
+  padding:5px;
+  width: 300px;
+  border-radius: 10px;
+  text-align: center;
+  
+}
+
+article h2 {
+  color: #f277e8;
+  margin-bottom: 30px;
+}
+
+
+ul {
+  
+  text-align: left;
+  margin: 20px 0;
+  
+
+}
+
+form {
+  background: rgb(195, 89, 181);
+  width: 80%;
+  margin: 50px ;
+  padding: 100px;
+  border-radius: 90px;
+}
+
+form{
+  width: 90%;
+  padding: 100px;
+  margin-top: 5px;
+  border-radius: 50px;
+  border: 1px solid #481138;
+}
+
+.name{
+    font-size:30px;
+
+}
+
+.email{
+    font-size:30px;
+}
+
+.gen{
+    font-size:30px;
+}
+
+.box{
+ font-size:30px;
+}
+
+.submit{
+ font-size:30px;
+
+}
+
+.reset{
+   font-size:30px; 
+}
+
+h1{
+    font-size: 50px;
+    color:#430431
+}
+
+h6{
+    font-size:20px;
+    color:#8e398e;
+}
+
+
+
+video, iframe, audio {
+
+  display: block;
+  margin: 50px;
+  border-radius: 10px;
+  align-content: left;
+  width:700px;
+  background: rgb(98, 46, 98);
+  width: 600px;
+  padding: 60px;
+  border-radius: 10px;
+  text-align: center;
+}
+footer {
+  background: #791170;
+  color: #bb98c6;
+  text-align: center;
+  padding: 10px;
+  font-size: 50px;
+}
+
+.sec{
+    background-color: #580b42;
+    color:#c77eb7
+    
+}
+
+.aside{
+    background-color: #490736;
+    color:#c77eb7;
+
+}
